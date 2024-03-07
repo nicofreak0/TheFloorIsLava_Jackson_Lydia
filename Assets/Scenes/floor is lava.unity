@@ -1532,7 +1532,7 @@ GameObject:
   - component: {fileID: 272628586}
   - component: {fileID: 272628585}
   m_Layer: 0
-  m_Name: chain link1
+  m_Name: chain link1.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

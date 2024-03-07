@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 21729526}
   - component: {fileID: 21729527}
   m_Layer: 0
-  m_Name: Capsule (10)
+  m_Name: chain link2.11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -976,7 +976,7 @@ GameObject:
   - component: {fileID: 180105359}
   - component: {fileID: 180105360}
   m_Layer: 0
-  m_Name: Capsule (7)
+  m_Name: chain link2.8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1182,7 +1182,7 @@ GameObject:
   - component: {fileID: 211345489}
   - component: {fileID: 211345490}
   m_Layer: 0
-  m_Name: Capsule (5)
+  m_Name: chain link2.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1357,7 +1357,7 @@ GameObject:
   - component: {fileID: 218210095}
   - component: {fileID: 218210096}
   m_Layer: 0
-  m_Name: Capsule (6)
+  m_Name: chain link1.7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1532,7 +1532,7 @@ GameObject:
   - component: {fileID: 272628586}
   - component: {fileID: 272628585}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: chain link1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1720,7 +1720,7 @@ GameObject:
   - component: {fileID: 312036702}
   - component: {fileID: 312036703}
   m_Layer: 0
-  m_Name: Capsule (13)
+  m_Name: chain link1.14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2133,7 +2133,7 @@ GameObject:
   - component: {fileID: 342208965}
   - component: {fileID: 342208966}
   m_Layer: 0
-  m_Name: Capsule (9)
+  m_Name: chain link1.10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2473,7 +2473,7 @@ GameObject:
   - component: {fileID: 400184690}
   - component: {fileID: 400184691}
   m_Layer: 0
-  m_Name: Capsule (12)
+  m_Name: chain link1.13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3781,7 +3781,7 @@ GameObject:
   - component: {fileID: 656511512}
   - component: {fileID: 656511511}
   m_Layer: 0
-  m_Name: Capsule (15)
+  m_Name: chain link2.16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4641,7 +4641,7 @@ GameObject:
   - component: {fileID: 708875347}
   - component: {fileID: 708875348}
   m_Layer: 0
-  m_Name: Capsule (4)
+  m_Name: chain link2.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5199,7 +5199,7 @@ GameObject:
   - component: {fileID: 754739932}
   - component: {fileID: 754739933}
   m_Layer: 0
-  m_Name: Capsule (14)
+  m_Name: chain link2.15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5547,7 +5547,7 @@ GameObject:
   - component: {fileID: 815979419}
   - component: {fileID: 815979420}
   m_Layer: 0
-  m_Name: Capsule (8)
+  m_Name: chain link2.9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5827,7 +5827,7 @@ GameObject:
   - component: {fileID: 872309939}
   - component: {fileID: 872309940}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: chain link2.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6300,7 +6300,7 @@ GameObject:
   - component: {fileID: 885495578}
   - component: {fileID: 885495577}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: chain link2.1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6490,7 +6490,7 @@ GameObject:
   - component: {fileID: 886306012}
   - component: {fileID: 886306013}
   m_Layer: 0
-  m_Name: Capsule (5)
+  m_Name: chain link1.6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6799,7 +6799,7 @@ GameObject:
   - component: {fileID: 906064910}
   - component: {fileID: 906064911}
   m_Layer: 0
-  m_Name: Capsule (7)
+  m_Name: chain link1.8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7977,7 +7977,7 @@ GameObject:
   - component: {fileID: 1100216789}
   - component: {fileID: 1100216790}
   m_Layer: 0
-  m_Name: Capsule (3)
+  m_Name: chain link2.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8816,7 +8816,7 @@ GameObject:
   - component: {fileID: 1280245430}
   - component: {fileID: 1280245431}
   m_Layer: 0
-  m_Name: Capsule (10)
+  m_Name: chain link1.11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9449,7 +9449,7 @@ GameObject:
   - component: {fileID: 1311674714}
   - component: {fileID: 1311674715}
   m_Layer: 0
-  m_Name: Capsule (11)
+  m_Name: chain link2.12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9729,7 +9729,7 @@ GameObject:
   - component: {fileID: 1345897280}
   - component: {fileID: 1345897281}
   m_Layer: 0
-  m_Name: Capsule (3)
+  m_Name: chain link1.4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10257,7 +10257,7 @@ GameObject:
   - component: {fileID: 1363271418}
   - component: {fileID: 1363271419}
   m_Layer: 0
-  m_Name: Capsule (2)
+  m_Name: chain link1.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10432,7 +10432,7 @@ GameObject:
   - component: {fileID: 1364271077}
   - component: {fileID: 1364271078}
   m_Layer: 0
-  m_Name: Capsule (8)
+  m_Name: chain link1.9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11096,7 +11096,7 @@ GameObject:
   - component: {fileID: 1462617365}
   - component: {fileID: 1462617366}
   m_Layer: 0
-  m_Name: Capsule (6)
+  m_Name: chain link2.7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12909,7 +12909,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1678297916}
   serializedVersion: 2
-  m_LocalRotation: {x: 1e-45, y: -0.7071068, z: 1e-45, w: 0.7071068}
+  m_LocalRotation: {x: 1e-45, y: -0.7071069, z: 1e-45, w: 0.70710677}
   m_LocalPosition: {x: -5.590001, y: 12.98, z: -5.479999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -13037,7 +13037,7 @@ GameObject:
   - component: {fileID: 1697912529}
   - component: {fileID: 1697912530}
   m_Layer: 0
-  m_Name: Capsule (12)
+  m_Name: chain link2.13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13664,7 +13664,7 @@ GameObject:
   - component: {fileID: 1833120568}
   - component: {fileID: 1833120569}
   m_Layer: 0
-  m_Name: Capsule (13)
+  m_Name: chain link2.14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13839,7 +13839,7 @@ GameObject:
   - component: {fileID: 1839494043}
   - component: {fileID: 1839494044}
   m_Layer: 0
-  m_Name: Capsule (4)
+  m_Name: chain link1.5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14445,7 +14445,7 @@ GameObject:
   - component: {fileID: 1977991521}
   - component: {fileID: 1977991522}
   m_Layer: 0
-  m_Name: Capsule (9)
+  m_Name: chain link2.10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15053,7 +15053,7 @@ GameObject:
   - component: {fileID: 2024771992}
   - component: {fileID: 2024771993}
   m_Layer: 0
-  m_Name: Capsule (2)
+  m_Name: chain link2.3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15228,7 +15228,7 @@ GameObject:
   - component: {fileID: 2026110614}
   - component: {fileID: 2026110615}
   m_Layer: 0
-  m_Name: Capsule (11)
+  m_Name: chain link1.12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15403,7 +15403,7 @@ GameObject:
   - component: {fileID: 2048892199}
   - component: {fileID: 2048892200}
   m_Layer: 0
-  m_Name: Capsule (1)
+  m_Name: chain link1.2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

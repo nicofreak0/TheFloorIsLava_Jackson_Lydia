@@ -9,7 +9,7 @@ public class ChangeColor : MonoBehaviour
     {
         rend = GetComponent<Renderer>();
         rend.enabled = true;
-        rend.sharedMaterial = material[6];
+        rend.sharedMaterial = material[3];
     }
     void OnCollisionEnter(Collision col)
     {

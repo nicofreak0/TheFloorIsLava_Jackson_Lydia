@@ -1,5 +1,3 @@
-using UnityEngine;
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,6 +5,8 @@ public class BumpSound : MonoBehaviour
 {
     [SerializeField] AudioClip bump;
     [SerializeField] AudioClip crash;
+    [SerializeField] AudioClip water;
+    [SerializeField] AudioClip hit;
     AudioSource audio;
     void Start()
     {
@@ -14,7 +14,7 @@ public class BumpSound : MonoBehaviour
     }
     void OnCollisionEnter(Collision collision) //Plays Sound Whenever collision detected
     {
-        if (collision.gameObject.tag == "peg")
+        if (collision.gameObject.tag == "Paddle")
         {
             audio.PlayOneShot(bump);
         }
@@ -24,7 +24,11 @@ public class BumpSound : MonoBehaviour
         }
         if (collision.gameObject.tag == "ramp")
         {
-            audio.PlayOneShot(bump);
+            audio.PlayOneShot(hit);
+        }
+        if (collision.gameObject.tag == "water")
+        {
+            audio.PlayOneShot(water);
         }
     }
 }

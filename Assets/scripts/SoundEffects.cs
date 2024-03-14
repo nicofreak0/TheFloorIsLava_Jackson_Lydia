@@ -1,18 +1,30 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class soundeffects : MonoBehaviour
+System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+public class BumpSound : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] AudioClip bump;
+    [SerializeField] AudioClip crash;
+    AudioSource audio;
     void Start()
     {
-        
+        audio = GetComponent<AudioSource>();
     }
-
-    // Update is called once per frame
-    void Update()
+    void OnCollisionEnter(Collision collision) //Plays Sound Whenever collision detected
     {
-        
+        if (collision.gameObject.tag == "peg")
+        {
+            audio.PlayOneShot(bump);
+        }
+        if (collision.gameObject.tag == "domino")
+        {
+            audio.PlayOneShot(crash);
+        }
+        if (collision.gameObject.tag == "ramp")
+        {
+            audio.PlayOneShot(bump);
+        }
     }
 }

@@ -9,6 +9,7 @@ TagManager:
   - ramp
   - water
   - creaking wood
+  - chains
   layers:
   - Default
   - TransparentFX

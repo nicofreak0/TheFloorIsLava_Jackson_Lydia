@@ -2407,6 +2407,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!82 &76853528
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2419,7 +2420,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3585,7 +3586,7 @@ GameObject:
   - component: {fileID: 124575154}
   m_Layer: 0
   m_Name: teeter totter
-  m_TagString: ramp
+  m_TagString: creaking wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4147,7 +4148,7 @@ GameObject:
   - component: {fileID: 151346208}
   m_Layer: 0
   m_Name: platform 1
-  m_TagString: ramp
+  m_TagString: creaking wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15015,7 +15016,7 @@ GameObject:
   - component: {fileID: 556527309}
   m_Layer: 0
   m_Name: platform 4 (8)
-  m_TagString: ramp
+  m_TagString: creaking wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15148,7 +15149,7 @@ GameObject:
   - component: {fileID: 566195594}
   m_Layer: 0
   m_Name: platform 4 (10)
-  m_TagString: ramp
+  m_TagString: creaking wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17087,7 +17088,7 @@ GameObject:
   - component: {fileID: 614014109}
   m_Layer: 0
   m_Name: platform 4 (22)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17475,7 +17476,7 @@ GameObject:
   - component: {fileID: 633355290}
   m_Layer: 0
   m_Name: platform 4 (23)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20580,7 +20581,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.486
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -20680,6 +20681,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!1 &705247651
 GameObject:
   m_ObjectHideFlags: 0
@@ -22161,7 +22163,7 @@ GameObject:
   - component: {fileID: 752492556}
   m_Layer: 0
   m_Name: platform 4 (12)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26357,6 +26359,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!82 &886460806
 AudioSource:
   m_ObjectHideFlags: 0
@@ -26369,7 +26372,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -27832,7 +27835,7 @@ GameObject:
   - component: {fileID: 957312450}
   m_Layer: 0
   m_Name: platform 3 (2)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31887,7 +31890,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.505
+  m_Volume: 0.351
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -31987,6 +31990,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!1 &1121979301
 GameObject:
   m_ObjectHideFlags: 0
@@ -33807,7 +33811,7 @@ GameObject:
   - component: {fileID: 1175568479}
   m_Layer: 0
   m_Name: platform 4 (25)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37644,7 +37648,7 @@ GameObject:
   - component: {fileID: 1296562536}
   m_Layer: 0
   m_Name: platform 4 (4)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -40748,7 +40752,7 @@ GameObject:
   - component: {fileID: 1406294189}
   m_Layer: 0
   m_Name: platform 4 (24)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -41585,6 +41589,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!82 &1428089369
 AudioSource:
   m_ObjectHideFlags: 0
@@ -41597,7 +41602,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 0.494
+  m_Volume: 0.351
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -46597,7 +46602,7 @@ GameObject:
   - component: {fileID: 1584051233}
   m_Layer: 0
   m_Name: platform 4 (5)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -47445,6 +47450,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!82 &1609858756
 AudioSource:
   m_ObjectHideFlags: 0
@@ -47457,7 +47463,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -48947,7 +48953,7 @@ GameObject:
   - component: {fileID: 1690981376}
   m_Layer: 0
   m_Name: platform 4 (13)
-  m_TagString: ramp
+  m_TagString: creaking wood
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -49516,6 +49522,7 @@ MonoBehaviour:
   crash: {fileID: 8300000, guid: c71da40097d4be94ab5fa5d3bc9f5b67, type: 3}
   water: {fileID: 8300000, guid: d4213706dff157a4f8f2f811c662f7f5, type: 3}
   hit: {fileID: 8300000, guid: ba4667fb21284734bab43983e234727b, type: 3}
+  wood: {fileID: 8300000, guid: ec4d992134186d44792636f37b255b7e, type: 3}
 --- !u!82 &1699277499
 AudioSource:
   m_ObjectHideFlags: 0
@@ -49528,7 +49535,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.359
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -51538,7 +51545,7 @@ GameObject:
   - component: {fileID: 1757107647}
   m_Layer: 0
   m_Name: platform 3 (3)
-  m_TagString: ramp
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

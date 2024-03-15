@@ -7,6 +7,7 @@ public class BumpSound : MonoBehaviour
     [SerializeField] AudioClip crash;
     [SerializeField] AudioClip water;
     [SerializeField] AudioClip hit;
+    [SerializeField] AudioClip wood;
     AudioSource audio;
     void Start()
     {
@@ -29,6 +30,10 @@ public class BumpSound : MonoBehaviour
         if (collision.gameObject.tag == "water")
         {
             audio.PlayOneShot(water);
+        }
+        if (collision.gameObject.tag == "creaking wood")
+        {
+            audio.PlayOneShot(wood);
         }
     }
 }
